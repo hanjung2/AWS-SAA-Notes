@@ -6,7 +6,7 @@ Contents of this note will be seperated by each of pillars which constructs well
 
 The 5 pillars are as of following.
 
-### Operational Excellance. 
+### Operational Excellence. 
 
 The operational excellence pillar focuses on running and monitoring systems to deliver business value, and continually improving processes and procedures. Key topics include managing and automating changes, responding to events, and defining standards to successfully manage daily operations.
 
